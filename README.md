@@ -24,7 +24,7 @@ Acesse a pasta do backend
 
 #### Agora vamos iniciar o postgres utilizando o docker composer depois instalar as dependencias
 
-Instalando postgres
+Subindo o container com postgres e pgAdmin
 
 `docker-compose up`
 
@@ -38,7 +38,7 @@ email `user@localhost.com`
 
 password `password`
 
-Agora crie uma database com o nome
+Agora crie um database com o nome
 
 `get_demo_database`
 
